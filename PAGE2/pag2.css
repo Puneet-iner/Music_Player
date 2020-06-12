@@ -189,7 +189,7 @@ input:focus{
 #main-artist{
 	display: grid;
 	grid-template-columns: 100%;
-	grid-template-rows: 20vh 45vh;
+	grid-template-rows: 36vh 45vh;
 }
 #about-m-artist{
 	display: grid;
